@@ -1,6 +1,7 @@
 ### 🚀 About Me
 
-#### 백엔드 개발자가 되고싶은 최누리 입니다.
+#### Mㅓ든지 Dㅏ하는 MD출신 개발자 최누리 입니다.
+     ㅜ
 
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
